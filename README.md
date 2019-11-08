@@ -31,5 +31,7 @@ Emergency Road Accident Detection and Response System .
 
 14) Arduino_code.ino contains the code for the arduino board.
 
-15)
+15) ably.php contains the code to publish locations thorugh ably realtime api.
+
+16) heatmap.php contains the code for the accident intensity graph.  
 
