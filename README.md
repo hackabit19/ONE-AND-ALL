@@ -27,3 +27,9 @@ Emergency Road Accident Detection and Response System .
 
 12)	It will help us to analyse which areas have higher accident rates and what is the reason behind it.
 
+13) The activity_main.java and activity_main.xml file contains the code for the user's app.
+
+14) Arduino_code.ino contains the code for the arduino board.
+
+15)
+
