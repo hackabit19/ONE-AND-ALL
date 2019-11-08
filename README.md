@@ -35,3 +35,5 @@ Emergency Road Accident Detection and Response System .
 
 16) heatmap.php contains the code for the accident intensity graph.  
 
+17) drivers_App.php contains the driver platform to know about the accident location and get the directions.
+
